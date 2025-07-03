@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![Together.ai](https://img.shields.io/badge/Together.ai-API-green.svg)](https://www.together.ai/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 An intelligent data analysis agent powered by **Llama-4-Maverick-17B-128E-Instruct-FP8** that can process multiple file types, perform comprehensive data analysis, create visualizations, and answer questions about your data using natural language.
 
